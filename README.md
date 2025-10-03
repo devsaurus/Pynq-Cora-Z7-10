@@ -1,4 +1,4 @@
-# Pynq-Cora-Z7-10
+# Pynq-Cora-Z7-10 [![GitHub Release](https://img.shields.io/github/v/release/devsaurus/Pynq-Cora-Z7-10?include_prereleases)](https://github.com/devsaurus/Pynq-Cora-Z7-10/releases)
 
 Pre-built SD card image can be downloaded from the [release assets](https://github.com/devsaurus/Pynq-Cora-Z7-10/releases).
 
